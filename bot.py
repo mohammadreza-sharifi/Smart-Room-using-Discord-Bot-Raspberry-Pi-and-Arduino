@@ -54,4 +54,4 @@ async def lux(ctx):
     await ctx.send(l.decode().strip())
 '''
     
-bot.run("OTUyMDcxMjU2NDE1NTYzODQ2.YiwrdA.DcDSq-OQpAjMbrApjKPGHK9Z7d4")
+bot.run("bot token")
